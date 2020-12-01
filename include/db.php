@@ -1,21 +1,21 @@
 <?php
 // mysql hostname
-$db_host = "localhost";
+$db_host = "[db_host]";
 
 // database name
-$db_name = "larrcom_reptulum";
+$db_name = "[db_name]";
 
 // database user name
-$db_user = "larrcom_reptulum";
+$db_user = "[db_user]";
 
 // database password
-$db_pass = "ASDfghjkl1@9";
+$db_pass = "[db_pass]";
 
 // admin username
-$admin_user = "larrcom";
+$admin_user = "[admin_user]";
 
 // admin password
-$admin_pass = "ASDfghjkl1@9";
+$admin_pass = "[admin_pass]";
 
 
 // StartupGenome.com integration (optional)
