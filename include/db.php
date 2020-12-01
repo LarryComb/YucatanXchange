@@ -92,7 +92,7 @@ $head_html = "";
 $title_tag = "Rep.Tulum - map of Tulum Digital Nomad community";
 
 // google maps api
-$google_maps_api = "AIzaSyBKvUjE0NefWDmk8t2yJ9S1VnkG57kUfVE";
+$google_maps_api = "";
 
 // map zoom
 $map_zoom = '14';
