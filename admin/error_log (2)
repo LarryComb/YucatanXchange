@@ -1,0 +1,5 @@
+[18-Nov-2020 11:23:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/larrcom/public_html/reptulum/admin/header.php:31
+Stack trace:
+#0 /home2/larrcom/public_html/reptulum/admin/login.php(3): include()
+#1 {main}
+  thrown in /home2/larrcom/public_html/reptulum/admin/header.php on line 31
