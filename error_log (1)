@@ -1,0 +1,72 @@
+[18-Nov-2020 10:52:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/larrcom/public_html/reptulum/header.php:5
+Stack trace:
+#0 /home2/larrcom/public_html/reptulum/index.php(3): include_once()
+#1 {main}
+  thrown in /home2/larrcom/public_html/reptulum/header.php on line 5
+[18-Nov-2020 10:52:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/larrcom/public_html/reptulum/header.php:5
+Stack trace:
+#0 /home2/larrcom/public_html/reptulum/index.php(3): include_once()
+#1 {main}
+  thrown in /home2/larrcom/public_html/reptulum/header.php on line 5
+[18-Nov-2020 10:54:20 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:54:20 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:54:21 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:54:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:56:49 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:56:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:56:50 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:56:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 6
+[18-Nov-2020 10:57:24 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 8
+[18-Nov-2020 10:57:24 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 8
+[18-Nov-2020 10:57:25 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 8
+[18-Nov-2020 10:57:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 8
+[18-Nov-2020 10:58:41 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 13
+[18-Nov-2020 10:58:41 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 13
+[18-Nov-2020 10:58:42 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home2/larrcom/public_html/reptulum/header.php on line 13
+[18-Nov-2020 10:58:42 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/larrcom/public_html/reptulum/header.php on line 13
+[18-Nov-2020 10:59:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/larrcom/public_html/reptulum/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 181
+[18-Nov-2020 10:59:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/larrcom/public_html/reptulum/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 181
+[18-Nov-2020 11:00:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/larrcom/public_html/reptulum/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 181
+[18-Nov-2020 11:03:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home2/larrcom/public_html/reptulum/index.php:182
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 182
+[18-Nov-2020 11:03:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home2/larrcom/public_html/reptulum/index.php:182
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 182
+[18-Nov-2020 11:03:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home2/larrcom/public_html/reptulum/index.php:182
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 182
+[18-Nov-2020 11:03:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home2/larrcom/public_html/reptulum/index.php:182
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 182
+[18-Nov-2020 11:05:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home2/larrcom/public_html/reptulum/index.php:183
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 183
+[18-Nov-2020 11:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home2/larrcom/public_html/reptulum/index.php:183
+Stack trace:
+#0 {main}
+  thrown in /home2/larrcom/public_html/reptulum/index.php on line 183
+[18-Nov-2020 13:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY), expecting ')' in /home2/larrcom/public_html/reptulum/index.php on line 433
+[18-Nov-2020 13:58:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY), expecting ')' in /home2/larrcom/public_html/reptulum/index.php on line 433
+[18-Nov-2020 13:58:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY), expecting ')' in /home2/larrcom/public_html/reptulum/index.php on line 433
+[18-Nov-2020 13:58:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY), expecting ')' in /home2/larrcom/public_html/reptulum/index.php on line 433
+[25-Nov-2020 11:32:53 America/Chicago] PHP Warning:  simplexml_load_file(https://maps.googleapis.com/maps/api/geocode/xml?key=AIzaSyBKvUjE0NefWDmk8t2yJ9S1VnkG57kUfVE&amp;address=&amp;sensor=false): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/larrcom/public_html/reptulum/geocode.php on line 39
+[25-Nov-2020 11:32:53 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://maps.googleapis.com/maps/api/geocode/xml?key=AIzaSyBKvUjE0NefWDmk8t2yJ9S1VnkG57kUfVE&amp;address=&amp;sensor=false&quot; in /home2/larrcom/public_html/reptulum/geocode.php on line 39
+[25-Nov-2020 11:36:32 America/Chicago] PHP Warning:  simplexml_load_file(https://maps.googleapis.com/maps/api/geocode/xml?key=AIzaSyBKvUjE0NefWDmk8t2yJ9S1VnkG57kUfVE&amp;address=&amp;sensor=false): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/larrcom/public_html/reptulum/geocode.php on line 39
+[25-Nov-2020 11:36:32 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://maps.googleapis.com/maps/api/geocode/xml?key=AIzaSyBKvUjE0NefWDmk8t2yJ9S1VnkG57kUfVE&amp;address=&amp;sensor=false&quot; in /home2/larrcom/public_html/reptulum/geocode.php on line 39
