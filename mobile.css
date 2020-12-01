@@ -1,0 +1,44 @@
+
+/* 
+these styles are only used on mobile devices 
+*/
+
+body
+{
+  width: auto;
+  font-size: 1em;
+}
+#modal_info,
+#modal_add
+{
+  bottom: 10px;
+}
+#topbar
+{
+  width: 100%;
+  height: auto;
+}
+#topbar .search,
+#topbar .right
+{
+  display: none;
+}
+#topbar .btn
+{
+  font-size: .7em;
+  padding: .5em .75em;
+}
+#topbar .buttons
+{
+  line-height: normal;
+  padding: .8em;
+  margin: 0px;
+}
+
+/* landscape styles */
+@media screen and (orientation:landscape) {
+  #topbar
+  {
+    /*display: none;*/
+  }
+}
